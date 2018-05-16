@@ -2,6 +2,10 @@
 
 Implementation of the [NIMA model](https://research.googleblog.com/2017/12/introducing-nima-neural-image-assessment.html) in TensorFlow.
 
+<img src="https://github.com/master/nima/blob/master/nima.png?raw=true" height=100% width=100%>
+
+Picture extracted from [1].
+
 ## Requirements
 
  * Python 3.5+
@@ -41,4 +45,10 @@ Implementation of the [NIMA model](https://research.googleblog.com/2017/12/intro
 
 The model has plateaued at 89% correlation after training for 20 epochs:
 
-<img src="https://github.com/master/nima/blob/master/nima.png?raw=true" height=100% width=100%>
+<img src="https://github.com/master/nima/blob/master/tensorboard.png?raw=true" height=100% width=100%>
+
+## References
+
+ 1. Talebi, Hossein, and Peyman Milanfar. "NIMA: Neural Image Assessment."
+    IEEE Transactions on Image Processing (2018).
+
